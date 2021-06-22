@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reactnativeokadocmeet"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->/Users/muhammadhanif/Documents/Work/okadoc-mobile/packages/react-native-okadoc-meet/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="22" />
+9-->/Users/muhammadhanif/Documents/Work/okadoc-mobile/packages/react-native-okadoc-meet/android/src/main/AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.camera" />
+11-->/Users/muhammadhanif/Documents/Work/okadoc-mobile/packages/react-native-okadoc-meet/android/src/main/AndroidManifest.xml:3:5-60
+11-->/Users/muhammadhanif/Documents/Work/okadoc-mobile/packages/react-native-okadoc-meet/android/src/main/AndroidManifest.xml:3:19-57
+12    <uses-feature android:name="android.hardware.camera.autofocus" />
+12-->/Users/muhammadhanif/Documents/Work/okadoc-mobile/packages/react-native-okadoc-meet/android/src/main/AndroidManifest.xml:4:5-70
+12-->/Users/muhammadhanif/Documents/Work/okadoc-mobile/packages/react-native-okadoc-meet/android/src/main/AndroidManifest.xml:4:19-67
+13
+14</manifest>

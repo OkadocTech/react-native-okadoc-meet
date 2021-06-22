@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:security" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:revert-99-hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:rizalfr" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:security" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:test" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dca86ce-97ab-4c52-9101-fe0852ff26a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reactnativeokadocmeet/RNOkadocMeetModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reactnativeokadocmeet/RNOkadocMeetModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reactnativeokadocmeet/RNOkadocMeetView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reactnativeokadocmeet/RNOkadocMeetView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reactnativeokadocmeet/RNOkadocMeetViewManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reactnativeokadocmeet/RNOkadocMeetViewManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/RNOkadocMeetView.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/RNOkadocMeetView.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/RNOkadocMeetViewManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/RNOkadocMeetViewManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/RNOkadocMeetViewManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/RNOkadocMeetViewManager.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-native-okadoc-meet.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/../react-native-okadoc-meet.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/.env.dist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/.env.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/android/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/android/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/android/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/ios/Okadoc.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/ios/Okadoc.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/metro.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/metro.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../projects/okadoc/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/okadoc/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/hermes/0.2.1/hermes-0.2.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/hermes/0.2.1/hermes-0.2.1.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/hermes/0.2.1/hermes-0.2.1.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/hermes/0.2.1/hermes-0.2.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/hermes/0.2.1/hermes-0.2.1.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/hermes/0.2.1/hermes-0.2.1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/hermes/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/hermes/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/hermes/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/2.1.1-jitsi-5506923/react-native-background-timer-2.1.1-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/2.1.1-jitsi-5506923/react-native-background-timer-2.1.1-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/2.1.1-jitsi-5506923/react-native-background-timer-2.1.1-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/2.1.1-jitsi-5506923/react-native-background-timer-2.1.1-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/2.1.1-jitsi-5506923/react-native-background-timer-2.1.1-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/2.1.1-jitsi-5506923/react-native-background-timer-2.1.1-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/2.1.1-jitsi-5506923/react-native-background-timer-2.1.1-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/2.1.1-jitsi-5506923/react-native-background-timer-2.1.1-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/2.1.1-jitsi-5506923/react-native-background-timer-2.1.1-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-background-timer/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/1.3.4-jitsi-5506923/react-native-community-async-storage-1.3.4-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/1.3.4-jitsi-5506923/react-native-community-async-storage-1.3.4-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/1.3.4-jitsi-5506923/react-native-community-async-storage-1.3.4-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/1.3.4-jitsi-5506923/react-native-community-async-storage-1.3.4-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/1.3.4-jitsi-5506923/react-native-community-async-storage-1.3.4-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/1.3.4-jitsi-5506923/react-native-community-async-storage-1.3.4-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/1.3.4-jitsi-5506923/react-native-community-async-storage-1.3.4-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/1.3.4-jitsi-5506923/react-native-community-async-storage-1.3.4-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/1.3.4-jitsi-5506923/react-native-community-async-storage-1.3.4-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community-async-storage/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/4.1.5-jitsi-5506923/react-native-community_netinfo-4.1.5-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/4.1.5-jitsi-5506923/react-native-community_netinfo-4.1.5-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/4.1.5-jitsi-5506923/react-native-community_netinfo-4.1.5-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/4.1.5-jitsi-5506923/react-native-community_netinfo-4.1.5-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/4.1.5-jitsi-5506923/react-native-community_netinfo-4.1.5-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/4.1.5-jitsi-5506923/react-native-community_netinfo-4.1.5-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/4.1.5-jitsi-5506923/react-native-community_netinfo-4.1.5-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/4.1.5-jitsi-5506923/react-native-community_netinfo-4.1.5-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/4.1.5-jitsi-5506923/react-native-community_netinfo-4.1.5-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-community_netinfo/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/1.4.2-jitsi-5506923/react-native-default-preference-1.4.2-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/1.4.2-jitsi-5506923/react-native-default-preference-1.4.2-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/1.4.2-jitsi-5506923/react-native-default-preference-1.4.2-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/1.4.2-jitsi-5506923/react-native-default-preference-1.4.2-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/1.4.2-jitsi-5506923/react-native-default-preference-1.4.2-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/1.4.2-jitsi-5506923/react-native-default-preference-1.4.2-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/1.4.2-jitsi-5506923/react-native-default-preference-1.4.2-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/1.4.2-jitsi-5506923/react-native-default-preference-1.4.2-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/1.4.2-jitsi-5506923/react-native-default-preference-1.4.2-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-default-preference/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/2.0.0-jitsi-5506923/react-native-immersive-2.0.0-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/2.0.0-jitsi-5506923/react-native-immersive-2.0.0-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/2.0.0-jitsi-5506923/react-native-immersive-2.0.0-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/2.0.0-jitsi-5506923/react-native-immersive-2.0.0-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/2.0.0-jitsi-5506923/react-native-immersive-2.0.0-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/2.0.0-jitsi-5506923/react-native-immersive-2.0.0-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/2.0.0-jitsi-5506923/react-native-immersive-2.0.0-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/2.0.0-jitsi-5506923/react-native-immersive-2.0.0-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/2.0.0-jitsi-5506923/react-native-immersive-2.0.0-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-immersive/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/4.0.0-jitsi-5506923/react-native-keep-awake-4.0.0-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/4.0.0-jitsi-5506923/react-native-keep-awake-4.0.0-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/4.0.0-jitsi-5506923/react-native-keep-awake-4.0.0-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/4.0.0-jitsi-5506923/react-native-keep-awake-4.0.0-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/4.0.0-jitsi-5506923/react-native-keep-awake-4.0.0-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/4.0.0-jitsi-5506923/react-native-keep-awake-4.0.0-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/4.0.0-jitsi-5506923/react-native-keep-awake-4.0.0-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/4.0.0-jitsi-5506923/react-native-keep-awake-4.0.0-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/4.0.0-jitsi-5506923/react-native-keep-awake-4.0.0-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-keep-awake/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/2.5.6-jitsi-5506923/react-native-linear-gradient-2.5.6-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/2.5.6-jitsi-5506923/react-native-linear-gradient-2.5.6-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/2.5.6-jitsi-5506923/react-native-linear-gradient-2.5.6-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/2.5.6-jitsi-5506923/react-native-linear-gradient-2.5.6-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/2.5.6-jitsi-5506923/react-native-linear-gradient-2.5.6-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/2.5.6-jitsi-5506923/react-native-linear-gradient-2.5.6-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/2.5.6-jitsi-5506923/react-native-linear-gradient-2.5.6-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/2.5.6-jitsi-5506923/react-native-linear-gradient-2.5.6-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/2.5.6-jitsi-5506923/react-native-linear-gradient-2.5.6-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-linear-gradient/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/0.11.0-jitsi-5506923/react-native-sound-0.11.0-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/0.11.0-jitsi-5506923/react-native-sound-0.11.0-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/0.11.0-jitsi-5506923/react-native-sound-0.11.0-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/0.11.0-jitsi-5506923/react-native-sound-0.11.0-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/0.11.0-jitsi-5506923/react-native-sound-0.11.0-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/0.11.0-jitsi-5506923/react-native-sound-0.11.0-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/0.11.0-jitsi-5506923/react-native-sound-0.11.0-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/0.11.0-jitsi-5506923/react-native-sound-0.11.0-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/0.11.0-jitsi-5506923/react-native-sound-0.11.0-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-sound/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/9.7.1-jitsi-5506923/react-native-svg-9.7.1-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/9.7.1-jitsi-5506923/react-native-svg-9.7.1-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/9.7.1-jitsi-5506923/react-native-svg-9.7.1-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/9.7.1-jitsi-5506923/react-native-svg-9.7.1-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/9.7.1-jitsi-5506923/react-native-svg-9.7.1-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/9.7.1-jitsi-5506923/react-native-svg-9.7.1-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/9.7.1-jitsi-5506923/react-native-svg-9.7.1-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/9.7.1-jitsi-5506923/react-native-svg-9.7.1-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/9.7.1-jitsi-5506923/react-native-svg-9.7.1-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-svg/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/1.84.0-jitsi-5506923/react-native-webrtc-1.84.0-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/1.84.0-jitsi-5506923/react-native-webrtc-1.84.0-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/1.84.0-jitsi-5506923/react-native-webrtc-1.84.0-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/1.84.0-jitsi-5506923/react-native-webrtc-1.84.0-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/1.84.0-jitsi-5506923/react-native-webrtc-1.84.0-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/1.84.0-jitsi-5506923/react-native-webrtc-1.84.0-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/1.84.0-jitsi-5506923/react-native-webrtc-1.84.0-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/1.84.0-jitsi-5506923/react-native-webrtc-1.84.0-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/1.84.0-jitsi-5506923/react-native-webrtc-1.84.0-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webrtc/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/7.4.1-jitsi-5506923/react-native-webview-7.4.1-jitsi-5506923-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/7.4.1-jitsi-5506923/react-native-webview-7.4.1-jitsi-5506923-sources.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/7.4.1-jitsi-5506923/react-native-webview-7.4.1-jitsi-5506923-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/7.4.1-jitsi-5506923/react-native-webview-7.4.1-jitsi-5506923.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/7.4.1-jitsi-5506923/react-native-webview-7.4.1-jitsi-5506923.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/7.4.1-jitsi-5506923/react-native-webview-7.4.1-jitsi-5506923.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/7.4.1-jitsi-5506923/react-native-webview-7.4.1-jitsi-5506923.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/7.4.1-jitsi-5506923/react-native-webview-7.4.1-jitsi-5506923.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/7.4.1-jitsi-5506923/react-native-webview-7.4.1-jitsi-5506923.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native-webview/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native/0.61.5-jitsi.1/react-native-0.61.5-jitsi.1.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native/0.61.5-jitsi.1/react-native-0.61.5-jitsi.1.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native/0.61.5-jitsi.1/react-native-0.61.5-jitsi.1.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native/0.61.5-jitsi.1/react-native-0.61.5-jitsi.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native/0.61.5-jitsi.1/react-native-0.61.5-jitsi.1.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native/0.61.5-jitsi.1/react-native-0.61.5-jitsi.1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/com/facebook/react/react-native/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/org/okadoc/react/okadoc-meet-sdk/2.10.0/okadoc-meet-sdk-2.10.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/org/okadoc/react/okadoc-meet-sdk/2.10.0/okadoc-meet-sdk-2.10.0.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/org/okadoc/react/okadoc-meet-sdk/2.10.0/okadoc-meet-sdk-2.10.0.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/org/okadoc/react/okadoc-meet-sdk/2.10.0/okadoc-meet-sdk-2.10.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/org/okadoc/react/okadoc-meet-sdk/2.10.0/okadoc-meet-sdk-2.10.0.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/org/okadoc/react/okadoc-meet-sdk/2.10.0/okadoc-meet-sdk-2.10.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/org/okadoc/react/okadoc-meet-sdk/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/org/okadoc/react/okadoc-meet-sdk/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/android/org/okadoc/react/okadoc-meet-sdk/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/CallKitIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/ComodoCaLimitedRsaCertificationAuthority.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/ComodoRsaCA.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/ComodoRsaDomainValidationCA.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Headers/InfoPlistUtil.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Headers/OkadocMeet-Swift.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Headers/OkadocMeet.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Headers/OkadocMeetBaseLogHandler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Headers/OkadocMeetConferenceOptions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Headers/OkadocMeetLogger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Headers/OkadocMeetUserInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Headers/OkadocMeetView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Headers/OkadocMeetViewDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64-apple-ios.swiftdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64-apple-ios.swiftinterface" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64-apple-ios.swiftmodule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64.swiftdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64.swiftinterface" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64.swiftmodule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/Modules/module.modulemap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/OkadocMeet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/api.amplitude.com.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/images/btn_google_signin_dark_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/images/dropboxLogo_square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/images/icon-users.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/images/jitsiLogo_square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-ar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-bg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-enGB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-eo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-esUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-et.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-fi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-frCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-hr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-mn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-oc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-pl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-ptBR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-ro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-sc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-sk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-sl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-sv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-vi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-zhCN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages-zhTW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/languages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-ar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-bg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-enGB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-eo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-esUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-et.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-fi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-frCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-hr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-mn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-oc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-pl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-ptBR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-ro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-sc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-sk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-sl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-sv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-vi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-zhCN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main-zhTW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/lang/main.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/node_modules/i18n-iso-countries/langs/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/assets/node_modules/react-native/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/image-resize@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/image-resize@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/incomingMessage.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/joined.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/left.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/liveStreamingOff.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/liveStreamingOn.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/main.jsbundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/outgoingRinging.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/outgoingStart.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/recordingOff.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/recordingOn.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/OkadocMeet.framework/rejected.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCAudioSession.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCAudioSessionConfiguration.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCAudioSource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCAudioTrack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCCVPixelBuffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCCallbackLogger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCCameraPreviewView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCCameraVideoCapturer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCCertificate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCCodecSpecificInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCCodecSpecificInfoH264.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCConfiguration.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCCryptoOptions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCDataChannel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCDataChannelConfiguration.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCDefaultVideoDecoderFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCDefaultVideoEncoderFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCDispatcher.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCDtmfSender.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCEAGLVideoView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCEncodedImage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCFieldTrials.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCFileLogger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCFileVideoCapturer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCH264ProfileLevelId.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCI420Buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCIceCandidate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCIceServer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCIntervalRange.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCLegacyStatsReport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCLogging.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCMTLVideoView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCMacros.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCMediaConstraints.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCMediaSource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCMediaStream.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCMediaStreamTrack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCMetrics.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCMetricsSampleInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCMutableI420Buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCMutableYUVPlanarBuffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCNativeI420Buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCNativeMutableI420Buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCPeerConnection.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCPeerConnectionFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCPeerConnectionFactoryOptions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCRtcpParameters.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCRtpCodecParameters.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCRtpEncodingParameters.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCRtpFragmentationHeader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCRtpHeaderExtension.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCRtpParameters.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCRtpReceiver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCRtpSender.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCRtpTransceiver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCSSLAdapter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCSessionDescription.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCTracing.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoCapturer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoCodecConstants.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoCodecInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoDecoder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoDecoderFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoDecoderFactoryH264.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoDecoderH264.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoDecoderVP8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoDecoderVP9.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoEncoder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderFactoryH264.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderH264.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderQpThresholds.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderSettings.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderVP8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderVP9.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoFrame.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoFrameBuffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoRenderer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoSource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoTrack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCVideoViewShading.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/RTCYUVPlanarBuffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/UIDevice+RTCDevice.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Headers/WebRTC.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/Modules/module.modulemap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/Frameworks/WebRTC.framework/WebRTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios-arm64/OkadocMeetSDK.podspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/CallKitIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/ComodoCaLimitedRsaCertificationAuthority.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/ComodoRsaCA.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/ComodoRsaDomainValidationCA.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Headers/InfoPlistUtil.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Headers/OkadocMeet-Swift.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Headers/OkadocMeet.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Headers/OkadocMeetBaseLogHandler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Headers/OkadocMeetConferenceOptions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Headers/OkadocMeetLogger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Headers/OkadocMeetUserInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Headers/OkadocMeetView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Headers/OkadocMeetViewDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64-apple-ios.swiftdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64-apple-ios.swiftinterface" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64-apple-ios.swiftmodule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64.swiftdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64.swiftinterface" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Modules/OkadocMeet.swiftmodule/arm64.swiftmodule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/Modules/module.modulemap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/OkadocMeet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/api.amplitude.com.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/images/btn_google_signin_dark_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/images/dropboxLogo_square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/images/icon-users.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/images/jitsiLogo_square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-ar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-bg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-enGB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-eo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-esUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-et.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-fi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-frCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-hr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-mn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-oc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-pl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-ptBR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-ro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-sc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-sk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-sl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-sv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-vi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-zhCN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages-zhTW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/languages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-ar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-bg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-enGB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-eo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-esUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-et.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-fi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-frCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-hr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-mn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-oc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-pl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-ptBR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-ro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-sc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-sk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-sl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-sv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-vi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-zhCN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main-zhTW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/lang/main.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/node_modules/i18n-iso-countries/langs/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/assets/node_modules/react-native/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/image-resize@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/image-resize@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/incomingMessage.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/joined.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/left.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/liveStreamingOff.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/liveStreamingOn.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/main.jsbundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/outgoingRinging.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/outgoingStart.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/recordingOff.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/recordingOn.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/OkadocMeet.framework/rejected.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCAudioSession.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCAudioSessionConfiguration.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCAudioSource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCAudioTrack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCCVPixelBuffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCCallbackLogger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCCameraPreviewView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCCameraVideoCapturer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCCertificate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCCodecSpecificInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCCodecSpecificInfoH264.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCConfiguration.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCCryptoOptions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCDataChannel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCDataChannelConfiguration.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCDefaultVideoDecoderFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCDefaultVideoEncoderFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCDispatcher.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCDtmfSender.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCEAGLVideoView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCEncodedImage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCFieldTrials.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCFileLogger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCFileVideoCapturer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCH264ProfileLevelId.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCI420Buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCIceCandidate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCIceServer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCLegacyStatsReport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCLogging.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCMTLVideoView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCMacros.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCMediaConstraints.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCMediaSource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCMediaStream.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCMediaStreamTrack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCMetrics.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCMetricsSampleInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCMutableI420Buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCMutableYUVPlanarBuffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCNativeI420Buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCNativeMutableI420Buffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCPeerConnection.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCPeerConnectionFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCPeerConnectionFactoryOptions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCRtcpParameters.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCRtpCodecParameters.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCRtpEncodingParameters.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCRtpFragmentationHeader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCRtpHeaderExtension.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCRtpParameters.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCRtpReceiver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCRtpSender.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCRtpTransceiver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCSSLAdapter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCSessionDescription.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCStatisticsReport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCTracing.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoCapturer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoCodecConstants.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoCodecInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoDecoder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoDecoderFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoDecoderFactoryH264.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoDecoderH264.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoDecoderVP8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoDecoderVP9.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoEncoder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderFactory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderFactoryH264.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderH264.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderQpThresholds.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderSettings.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderVP8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoEncoderVP9.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoFrame.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoFrameBuffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoRenderer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoSource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoTrack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCVideoViewShading.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/RTCYUVPlanarBuffer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/UIDevice+RTCDevice.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Headers/WebRTC.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/Modules/module.modulemap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/Frameworks/WebRTC.framework/WebRTC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sdk/OkadocMeetSDK/ios/OkadocMeetSDK.podspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/helper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/screens/videocall/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/screens/videocall/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/screens/webview/menu.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/screens/webview/menu.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1nuxff05UdWoAH58fDEWAiaz4Jt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dca86ce-97ab-4c52-9101-fe0852ff26a2" name="Default Changelist" comment="" />
+      <created>1612253882146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612253882146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623990447770">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.815@0.25.1440.815" timestamp="1623990447770" />
+    <state width="1440" height="282" key="GridCell.Tab.0.bottom" timestamp="1623990373602">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1440" height="282" key="GridCell.Tab.0.bottom/0.25.1440.815@0.25.1440.815" timestamp="1623990373602" />
+    <state width="1440" height="282" key="GridCell.Tab.0.center" timestamp="1623990373601">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1440" height="282" key="GridCell.Tab.0.center/0.25.1440.815@0.25.1440.815" timestamp="1623990373601" />
+    <state width="1440" height="282" key="GridCell.Tab.0.left" timestamp="1623990373600">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1440" height="282" key="GridCell.Tab.0.left/0.25.1440.815@0.25.1440.815" timestamp="1623990373600" />
+    <state width="1440" height="282" key="GridCell.Tab.0.right" timestamp="1623990373602">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1440" height="282" key="GridCell.Tab.0.right/0.25.1440.815@0.25.1440.815" timestamp="1623990373602" />
+    <state x="412" y="187" width="615" height="490" key="find.popup" timestamp="1616571542303">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="412" y="187" width="615" height="490" key="find.popup/0.25.1440.817@0.25.1440.817" timestamp="1616571542303" />
+  </component>
+</project>
