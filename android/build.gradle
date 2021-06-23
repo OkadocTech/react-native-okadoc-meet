@@ -37,7 +37,7 @@ android {
 
 repositories {
   maven {
-    url "https://github.com/jitsi/jitsi-maven-repository/raw/master/releases"
+    url "https://github.com/OkadocTech/okadoc-maven-repository/raw/master/releases"
   }
   google()
   mavenCentral()

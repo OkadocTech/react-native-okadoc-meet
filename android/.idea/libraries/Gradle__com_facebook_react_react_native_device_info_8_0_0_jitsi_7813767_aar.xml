@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-device-info:8.0.0-jitsi-7813767@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63325c5fed3e9988cc21c31e72d050ab/react-native-device-info-8.0.0-okadoc-7796291/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63325c5fed3e9988cc21c31e72d050ab/react-native-device-info-8.0.0-okadoc-7796291/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63325c5fed3e9988cc21c31e72d050ab/react-native-device-info-8.0.0-okadoc-7796291/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-device-info/8.0.0-jitsi-7813767/82149ed2c526561fef3a75e7aeb53c3f7cf35c00/react-native-device-info-8.0.0-jitsi-7813767-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

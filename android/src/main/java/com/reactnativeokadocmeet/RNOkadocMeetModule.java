@@ -71,7 +71,6 @@ public class RNOkadocMeetModule extends ReactContextBaseJavaModule {
                             .setFeatureFlag("chat.enabled", false)
                             .setFeatureFlag("conference-timer.enabled", false)
                             .setFeatureFlag("invite.enabled", false)
-                            .setFeatureFlag("overflow-menu.enabled", false)
                             .setFeatureFlag("pip.enabled", false)
                             .build();
                     mOkadocMeetViewReference.getOkadocMeetView().leave();
@@ -89,19 +88,25 @@ public class RNOkadocMeetModule extends ReactContextBaseJavaModule {
                 if (mOkadocMeetViewReference.getOkadocMeetView() != null) {
                     RNOkadocMeetUserInfo _userInfo = new RNOkadocMeetUserInfo();
                     if (userInfo != null) {
-                        if (userInfo.hasKey("displayName")) {
-                            _userInfo.setDisplayName(userInfo.getString("displayName"));
-                          }
-                          if (userInfo.hasKey("email")) {
-                            _userInfo.setEmail(userInfo.getString("email"));
-                          }
-                          if (userInfo.hasKey("avatar")) {
-                            String avatarURL = userInfo.getString("avatar");
-                            try {
-                                _userInfo.setAvatar(new URL(avatarURL));
-                            } catch (MalformedURLException e) {
+                        if (mOkadocMeetViewReference.getOkadocMeetView() == null) {
+                            audioCall(url, userInfo);
+                        }
+                        else {
+                            if (userInfo.hasKey("displayName")) {
+                                _userInfo.setDisplayName(userInfo.getString("displayName"));
                             }
-                          }
+                            if (userInfo.hasKey("email")) {
+                                _userInfo.setEmail(userInfo.getString("email"));
+                            }
+                            if (userInfo.hasKey("avatar")) {
+                                String avatarURL = userInfo.getString("avatar");
+                                try {
+                                    _userInfo.setAvatar(new URL(avatarURL));
+                                } 
+                                catch (MalformedURLException e) {
+                                }
+                            }
+                        }
                     }
                     RNOkadocMeetConferenceOptions options = new RNOkadocMeetConferenceOptions.Builder()
                             .setRoom(url)

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-default-preference:1.4.2-jitsi-7813767@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/785215126dcf8ce951522024fc309606/react-native-default-preference-1.4.2-okadoc-7796291/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/785215126dcf8ce951522024fc309606/react-native-default-preference-1.4.2-okadoc-7796291/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/785215126dcf8ce951522024fc309606/react-native-default-preference-1.4.2-okadoc-7796291/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-default-preference/1.4.2-jitsi-7813767/3474a979537ce4d3e4b6f8a1daf8cad00a70ecd9/react-native-default-preference-1.4.2-jitsi-7813767-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
