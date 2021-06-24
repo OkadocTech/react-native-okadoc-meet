@@ -23,7 +23,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dca86ce-97ab-4c52-9101-fe0852ff26a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_async_storage_1_13_2_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_background_timer_2_4_0_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_calendar_events_2_0_0_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_community_netinfo_4_1_5_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_default_preference_1_4_2_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_device_info_8_0_0_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_google_signin_3_0_1_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_immersive_2_0_0_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_keep_awake_4_0_0_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_sound_0_11_0_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_splash_screen_3_2_0_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_svg_12_1_0_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_webrtc_1_89_1_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_webview_11_0_2_jitsi_7813767_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jitsi_react_jitsi_meet_sdk_3_6_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jitsi_react_jitsi_meet_sdk_3_6_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/reactnativeokadocmeet/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/aar_metadata/debug/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/library_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/packaged_manifests/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +137,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624516521831">
       <screen x="0" y="25" width="1440" height="814" />
@@ -117,9 +164,10 @@
       <screen x="0" y="25" width="1440" height="815" />
     </state>
     <state width="1440" height="282" key="GridCell.Tab.0.right/0.25.1440.815@0.25.1440.815" timestamp="1623990373602" />
-    <state x="221" y="68" key="SettingsEditor" timestamp="1624524823484">
-      <screen x="0" y="25" width="1440" height="815" />
+    <state x="221" y="68" key="SettingsEditor" timestamp="1624537157424">
+      <screen x="0" y="25" width="1440" height="814" />
     </state>
+    <state x="221" y="68" key="SettingsEditor/0.25.1440.814@0.25.1440.814" timestamp="1624537157424" />
     <state x="221" y="68" key="SettingsEditor/0.25.1440.815@0.25.1440.815" timestamp="1624524823484" />
     <state x="412" y="187" width="615" height="490" key="find.popup" timestamp="1616571542303">
       <screen x="0" y="25" width="1440" height="817" />

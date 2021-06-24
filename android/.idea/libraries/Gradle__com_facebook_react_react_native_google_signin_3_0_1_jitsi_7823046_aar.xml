@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.facebook.react:react-native-google-signin:3.0.1-jitsi-7813767@aar">
+  <library name="Gradle: com.facebook.react:react-native-google-signin:3.0.1-jitsi-7823046@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/edb160249adb003e7a53745f3829f258/react-native-google-signin-3.0.1-okadoc-7796291/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/edb160249adb003e7a53745f3829f258/react-native-google-signin-3.0.1-okadoc-7796291/res" />
@@ -7,7 +7,8 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-google-signin/3.0.1-jitsi-7813767/a8d2672bb1fc371d25f8d530d06abd707f3a9d96/react-native-google-signin-3.0.1-jitsi-7813767-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../okadoc-maven-repository/releases/com/facebook/react/react-native-google-signin/3.0.1-jitsi-7823046/react-native-google-signin-3.0.1-jitsi-7823046-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-google-signin/3.0.1-jitsi-7823046/c42559427ae910dd22a0985b6c791d223d26d0c/react-native-google-signin-3.0.1-jitsi-7823046-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.facebook.react:react-native-immersive:2.0.0-jitsi-7813767@aar">
+  <library name="Gradle: com.facebook.react:react-native-immersive:2.0.0-jitsi-7823046@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee3ed9d9c8fa3b4c19621a0bf39c6f89/react-native-immersive-2.0.0-okadoc-7796291/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee3ed9d9c8fa3b4c19621a0bf39c6f89/react-native-immersive-2.0.0-okadoc-7796291/res" />
@@ -7,7 +7,8 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-immersive/2.0.0-jitsi-7813767/534105d7a784b06cc118decd1d94068bb0600f49/react-native-immersive-2.0.0-jitsi-7813767-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../okadoc-maven-repository/releases/com/facebook/react/react-native-immersive/2.0.0-jitsi-7823046/react-native-immersive-2.0.0-jitsi-7823046-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-immersive/2.0.0-jitsi-7823046/a579778665c2d2b1a3d5410aded8c664db5f2d82/react-native-immersive-2.0.0-jitsi-7823046-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.facebook.react:react-native-svg:12.1.0-jitsi-7813767@aar">
+  <library name="Gradle: com.facebook.react:react-native-svg:12.1.0-jitsi-7823046@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04585053cac0fc8eb3c201fd83ec08e4/react-native-svg-12.1.0-okadoc-7796291/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04585053cac0fc8eb3c201fd83ec08e4/react-native-svg-12.1.0-okadoc-7796291/res" />
@@ -7,7 +7,8 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-svg/12.1.0-jitsi-7813767/f0313656832548d12008a4bfa3786e30ef5a9be6/react-native-svg-12.1.0-jitsi-7813767-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../okadoc-maven-repository/releases/com/facebook/react/react-native-svg/12.1.0-jitsi-7823046/react-native-svg-12.1.0-jitsi-7823046-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-svg/12.1.0-jitsi-7823046/22782bc41253ab9a8e10b71aae9c7be6fb989e86/react-native-svg-12.1.0-jitsi-7823046-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
