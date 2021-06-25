@@ -37,7 +37,7 @@ android {
 
 repositories {
   maven {
-    url "https://github.com/OkadocTech/okadoc-maven-repository/raw/master/android"
+    url "https://github.com/OkadocTech/okadoc-maven-repository/tree/android"
   }
   google()
   mavenCentral()
