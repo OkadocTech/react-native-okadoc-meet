@@ -47,7 +47,7 @@ RCT_EXPORT_METHOD(call:(NSString *)urlString userInfo:(NSDictionary *)userInfo)
             builder.userInfo = _userInfo;
             [builder setFeatureFlag:@"add-people.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"chat.enabled" withBoolean:NO];
-            [builder setFeatureFlag:@"conference-timer.enabled" withBoolean:NO];
+            [builder setFeatureFlag:@"conference-timer.enabled" withBoolean:YES];
             [builder setFeatureFlag:@"help.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"invite.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"kick-out.enabled" withBoolean:NO];
