@@ -69,8 +69,9 @@ public class RNOkadocMeetModule extends ReactContextBaseJavaModule {
                             .setUserInfo(_userInfo)
                             .setFeatureFlag("add-people.enabled", false)
                             .setFeatureFlag("chat.enabled", false)
-                            .setFeatureFlag("conference-timer.enabled", true)
+                            .setFeatureFlag("conference-timer.enabled", false)
                             .setFeatureFlag("invite.enabled", false)
+                            .setFeatureFlag("meeting-name.enabled", false)
                             .setFeatureFlag("pip.enabled", false)
                             .build();
                     mOkadocMeetViewReference.getOkadocMeetView().leave();

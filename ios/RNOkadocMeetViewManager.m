@@ -47,12 +47,13 @@ RCT_EXPORT_METHOD(call:(NSString *)urlString userInfo:(NSDictionary *)userInfo)
             builder.userInfo = _userInfo;
             [builder setFeatureFlag:@"add-people.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"chat.enabled" withBoolean:NO];
-            [builder setFeatureFlag:@"conference-timer.enabled" withBoolean:YES];
+            [builder setFeatureFlag:@"conference-timer.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"help.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"invite.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"kick-out.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"live-streaming.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"lobby-mode.enabled" withBoolean:NO];
+            [builder setFeatureFlag:@"meeting-name.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"meeting-password.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"pip.enabled" withBoolean:NO];
             [builder setFeatureFlag:@"raise-hand.enabled" withBoolean:NO];
