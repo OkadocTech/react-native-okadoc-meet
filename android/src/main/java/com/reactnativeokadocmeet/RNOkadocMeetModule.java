@@ -38,24 +38,22 @@ public class RNOkadocMeetModule extends ReactContextBaseJavaModule {
             public void run() {
                 if (mOkadocMeetViewReference.getOkadocMeetView() != null) {
                     RNOkadocMeetUserInfo _userInfo = new RNOkadocMeetUserInfo();
-                    if (userInfo != null) {
-                        if (mOkadocMeetViewReference.getOkadocMeetView() == null) {
-                            call(url, userInfo);
+                    if (mOkadocMeetViewReference.getOkadocMeetView() == null) {
+                        call(url, userInfo);
+                    }
+                    else {
+                        if (userInfo.hasKey("displayName")) {
+                            _userInfo.setDisplayName(userInfo.getString("displayName"));
                         }
-                        else {
-                            if (userInfo.hasKey("displayName")) {
-                                _userInfo.setDisplayName(userInfo.getString("displayName"));
+                        if (userInfo.hasKey("email")) {
+                            _userInfo.setEmail(userInfo.getString("email"));
+                        }
+                        if (userInfo.hasKey("avatar")) {
+                            String avatarURL = userInfo.getString("avatar");
+                            try {
+                                _userInfo.setAvatar(new URL(avatarURL));
                             }
-                            if (userInfo.hasKey("email")) {
-                                _userInfo.setEmail(userInfo.getString("email"));
-                            }
-                            if (userInfo.hasKey("avatar")) {
-                                String avatarURL = userInfo.getString("avatar");
-                                try {
-                                    _userInfo.setAvatar(new URL(avatarURL));
-                                }
-                                catch (MalformedURLException e) {
-                                }
+                            catch (MalformedURLException e) {
                             }
                         }
                     }
@@ -88,24 +86,22 @@ public class RNOkadocMeetModule extends ReactContextBaseJavaModule {
             public void run() {
                 if (mOkadocMeetViewReference.getOkadocMeetView() != null) {
                     RNOkadocMeetUserInfo _userInfo = new RNOkadocMeetUserInfo();
-                    if (userInfo != null) {
-                        if (mOkadocMeetViewReference.getOkadocMeetView() == null) {
-                            audioCall(url, userInfo);
+                    if (mOkadocMeetViewReference.getOkadocMeetView() == null) {
+                        audioCall(url, userInfo);
+                    }
+                    else {
+                        if (userInfo.hasKey("displayName")) {
+                            _userInfo.setDisplayName(userInfo.getString("displayName"));
                         }
-                        else {
-                            if (userInfo.hasKey("displayName")) {
-                                _userInfo.setDisplayName(userInfo.getString("displayName"));
-                            }
-                            if (userInfo.hasKey("email")) {
-                                _userInfo.setEmail(userInfo.getString("email"));
-                            }
-                            if (userInfo.hasKey("avatar")) {
-                                String avatarURL = userInfo.getString("avatar");
-                                try {
-                                    _userInfo.setAvatar(new URL(avatarURL));
-                                } 
-                                catch (MalformedURLException e) {
-                                }
+                        if (userInfo.hasKey("email")) {
+                            _userInfo.setEmail(userInfo.getString("email"));
+                        }
+                        if (userInfo.hasKey("avatar")) {
+                            String avatarURL = userInfo.getString("avatar");
+                            try {
+                                _userInfo.setAvatar(new URL(avatarURL));
+                            } 
+                            catch (MalformedURLException e) {
                             }
                         }
                     }
