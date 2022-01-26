@@ -4,8 +4,7 @@ React native wrapper for Okadoc Meet SDK
 
 ## Install
 
-follow the guidance in here:
-https://okadoc.atlassian.net/wiki/spaces/TECH/pages/304120147/Okadoc+Package+registry.
+We are still in development, so if you want to contribute, please ask @Hendry on how to install it locally into your computer.
 
 ## Use
 
