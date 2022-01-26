@@ -4,7 +4,8 @@ React native wrapper for Okadoc Meet SDK
 
 ## Install
 
-`Add to package.json -> "react-native-okadoc-meet": "git+https://github.com/OkadocTech/react-native-okadoc-meet.git"`
+follow the guidance in here:
+https://okadoc.atlassian.net/wiki/spaces/TECH/pages/304120147/Okadoc+Package+registry.
 
 ## Use
 
