@@ -25,7 +25,14 @@ public class RNOkadocMeetUserInfo {
      */
     private URL avatar;
 
-    public RNOkadocMeetUserInfo() {}
+    public RNOkadocMeetUserInfo() {
+        displayName = "";
+        email = "";
+        try {
+            avatar = new URL("https://assets.stickpng.com/images/580b57fcd9996e24bc43c325.png");
+        } catch (MalformedURLException e) {
+        }
+    }
 
     public RNOkadocMeetUserInfo(Bundle b) {
         super();
